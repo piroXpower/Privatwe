@@ -1,2 +1,3 @@
 pyYAML>=5.1.2
 html-telegraph-poster
+hentai --only-binary all
