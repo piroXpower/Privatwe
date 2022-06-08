@@ -1,1 +1,2 @@
 pyYAML>=5.1.2
+html-telegraph-poster
