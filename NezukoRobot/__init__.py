@@ -247,10 +247,10 @@ arq = ARQ(ARQ_API_URL, ARQ_API_KEY, aiohttpsession)
 
 ubot2 = TelegramClient(StringSession(STRING_SESSION), API_ID, API_HASH)
 try:
-    ubot2.start()
+     ubot.start() 
 except BaseException:
     print("Userbot Error ! Have you added a STRING_SESSION in deploying??")
-    sys.exit(1)
+    
 
 pbot = Client(
     ":memory:",
