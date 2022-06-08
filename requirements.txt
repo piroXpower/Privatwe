@@ -1,1 +1,1 @@
-yaml
+pyYAML>=5.1.2
